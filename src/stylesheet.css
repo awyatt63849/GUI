@@ -1,0 +1,8 @@
+#root{
+    -fx-background-color:#0c046b;
+}
+#root2{
+    -fx-background-color:black;
+    -fx-pref-width: 700;
+    -fx-pref-height: 500;
+}
